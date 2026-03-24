@@ -2,7 +2,7 @@
 
 > A deep learning solution for **non-invasive cassava root volume prediction** using Ground Penetrating Radar (GPR) scan images, built for the [CGIAR Root Volume Estimation Challenge]([CGIAR Root Volume Estimation Challenge](https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge)).
 
-**By Pehar Jhamb, Yuven Blowria, Puneet Mafan**
+**By Yuven Blowria, Puneet Madan, Pehar Jhamb**
 
 ---
 
