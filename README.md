@@ -1,4 +1,4 @@
-# 🌿 Cassava Root Volume Estimation
+# Cassava Root Volume Estimation
 
 > A deep learning solution for **non-invasive cassava root volume prediction** using Ground Penetrating Radar (GPR) scan images, built for the [CGIAR Root Volume Estimation Challenge]([CGIAR Root Volume Estimation Challenge](https://zindi.africa/competitions/cgiar-root-volume-estimation-challenge)).
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Background](#background)
 - [Problem Statement](#problem-statement)
